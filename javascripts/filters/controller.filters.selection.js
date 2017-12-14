@@ -292,7 +292,7 @@
       vm.selectedResultPeriodEndYear.on = false;
       vm.selectedResultPeriodEndYear.year = 2016;
       FilterSelection.save();
-      Transaction.toReset = true;
+      Results.toReset = true;
     }
 
 
